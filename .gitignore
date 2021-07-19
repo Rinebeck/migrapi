@@ -1,0 +1,11 @@
+# IDE folders
+.idea
+.vscode
+.history
+.DS_Store
+
+# Dependencies
+vendor
+
+# Logs
+api/logs
