@@ -9,3 +9,6 @@ vendor
 
 # Logs
 api/logs
+
+# Env
+.env
